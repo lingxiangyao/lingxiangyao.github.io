@@ -11,36 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Sichuan University, 2023
+* B.S. in Sichuan University, 2019
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019-2023: Key Technologies and Demonstration Applications of Market Consumption and Dispatching Control of CSP-Photovoltaic-Wind Power New Energy Base
+  * Proposed a dynamic model for CSP systems and constructed an integrated simulation platform
+  * Analyzed the influencing factors and mechanisms of trip-off failures in renewable energy systems
+  * Analyzed the impact of varying proportions of CSP on trip-off failures in renewable energy systems
+  * Participated in the research on coordinating CSP with other energy sources to mitigate trip-off failures in renewable energy systems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2021: The Research on Sensitive Industrial Process Failure Mechanism and Tolerance Capacity under Voltage Sag
+  * Conducted a study on the impact patterns of multidimensional features, such as amplitude and duration of voltage sags, on typical sensitive devices like AC contactors
+  * Participated in the research on the impact patterns and mapping mechanisms of process failures caused by equipment malfunctions
+  * Proposes an adaptive tripping scheme for AC contactors to improve the motor immunity to voltage sags
+
+
+* 2021-2024: Research on Load Flexibility Assessment for Multi-user by Considering the Coupling between Heterogeneous Devices
+  * Contributed to the conceptualization and writing process of grant proposal
+  * Participated in the research on user heterogeneous device identification based on multi-dimensional power quality monitoring data
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software
+  * Matlab/Simulink 
+  * QGIS
+  * Python
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--!>
