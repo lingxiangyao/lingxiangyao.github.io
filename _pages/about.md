@@ -24,4 +24,5 @@ Publications
 **Lingxiang Yao**, Xianyong Xiao, Yang Wang, Xiaoming Yao, and Zhicheng Ma. Dynamic Modeling and Hierarchical Control of a Concentrated Solar Power Plant with Direct Molten Salt Storage. **_Energy_**, 2022, 252: 123999. [paper](https://doi.org/10.1016/j.energy.2022.123999)
 
 **Lingxiang Yao**, Xianyong Xiao, Yang Wang, and Wilsun Xu. Adaptive Contactor – A New Scheme to Improve Induction Motor Immunity to Voltage Sags. **_IEEE Transactions on Power Delivery_**, 2021, 36(6): 3360-3370. [paper](https://doi.org/10.1109/TPWRD.2020.3038947)
+
 **Lingxiang Yao**, Zhiwen Guan, Yang Wang, Hongxun Hui, Shuyu Luo, Chuyun Jia, Xingxing You, Xianyong Xiao. Evaluating the feasibility of concentrated solar power as a replacement for coal-fired power in China: A comprehensive comparative analysis. **_Applied Energy_**, 2025, 377: 124396. [paper](https://doi.org/10.1016/j.apenergy.2024.124396)
